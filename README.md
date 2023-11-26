@@ -8,7 +8,7 @@ How To Use:
 Better to use https://github.com/tractorAside/Private-Key-And-Seed-Excavator for easy address list management.
 Please provide at least one text file (e.g., addresses1.txt). If you have long lists, divide them into 2, 3, or 4 files (e.g., addresses1.txt, addresses2.txt, addresses3.txt, addresses4.txt).
 
-'''
+```
 For a well-configured Seed/Address List:
 Address Checker:
 The line must start or contain "Address:," and the address must come after that part.
@@ -18,7 +18,7 @@ The line must start or contain "Seed:," and the seed phrase must come after that
 The Balance Checker will attempt the first three addresses of the seed, regardless of the balance. If the third balance is greater than 0, it will try the fourth; if the fourth balance is greater than 0, it will try the fifth. This process continues until the balance equals 0.
 
 If there is anything different in the line, the balance checker will continue with the next row.
-'''
+```
 
 Use the following buttons to initiate searches:
 Top Left Button: Start search with addresses1 list.
