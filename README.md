@@ -5,7 +5,7 @@ Embedded with Tor Proxy And CefSharp Browser
 ![BalanceCheckerGif](https://raw.githubusercontent.com/tractorAside/ZapperFi-Balance-Checker/main/ZapperFi.gif)
 
 How To Use:
-
+Better to use https://github.com/tractorAside/Private-Key-And-Seed-Excavator for easy address list management.
 Please provide at least one text file (e.g., addresses1.txt). If you have long lists, divide them into 2, 3, or 4 files (e.g., addresses1.txt, addresses2.txt, addresses3.txt, addresses4.txt).
 
 '''
