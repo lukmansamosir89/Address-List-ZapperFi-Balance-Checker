@@ -1,5 +1,6 @@
 # ZapperFi-Balance-Checker
 Batch Address List Balance Checker Using Of ZapperFi
+Embedded with Tor Proxy And CefSharp Browser
 
 ![BalanceCheckerGif](https://raw.githubusercontent.com/tractorAside/ZapperFi-Balance-Checker/main/ZapperFi.gif)
 
